@@ -1,5 +1,5 @@
 # web ports
-
+- [20 Minutes](https://github.com/web-ports/20-minutes) - port by bog and rah
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [bread](https://github.com/genizy)
 - [Angry Birds Epic v3.0.1](https://github.com/DarkTerraYT/EpicWeb)
@@ -33,7 +33,7 @@
 - [Cuphead](https://github.com/web-ports/cuphead/), [2](https://github.com/woahhcrackers/CupheadWeb) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Celeste](https://github.com/MercuryWorkshop/celeste-wasm), [2](https://github.com/web-ports/celeste) - port by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
 - [Celeste 3D](https://github.com/gays-studio/celeste3d) - port by [aj](https://github.com/ajtabjs)
-- [Cruelty Squad](https://github.com/imt00dizzy/cruelty-squad) - port by [dizzy](https://github.com/imt00dizzy)
+- [Cruelty Squad](https://github.com/imt00dizzy/cruelty-squad), [2](https://github.com/web-ports/cruelty-squad) - port by [dizzy](https://github.com/imt00dizzy)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Dawnfolk](https://github.com/degloved-net/dawnfolk) - port by [cirsius](https://github.com/cirsius)
@@ -98,7 +98,7 @@
 - [Milk inside a bag of milk inside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/inside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milk outside a bag of milk outside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/outside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milkman Karlson](https://github.com/aukak/gameports/tree/main/milkman%20karlson) - Ported by [bog/aukak](https://github.com/aukak)
-- [MiSide](https://github.com/woahhcrackers/MiSideWeb) - ported by [crackers](https://github.com/woahhcrackers)
+- [MiSide](https://github.com/web-ports/miside/), [2](https://github.com/woahhcrackers/MiSideWeb) - ported by [bread](https://github.com/genizy), 2nd link [crackers](https://github.com/woahhcrackers)
 - [My Dictator Stalin Can't Be This Cute ?!](https://github.com/degloved-net/my-dictator-stalin-cant-be-this-cute) - port by [cirsius](https://github.com/cirsius)
 - [My Femboy Roommate](http://github.com/gays-studio/mfr-webport), [2](https://github.com/Cute-Orange-Cat/MFR/tree/main) - ported by [aj](https://github.com/ajtabjs) 
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
