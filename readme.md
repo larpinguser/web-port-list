@@ -143,6 +143,7 @@
 - [Stardew Valley](https://github.com/degloved-net/stardew-wasm) - port by [cirsius](https://github.com/Cirsius)
 - [SRB2 Kart](https://github.com/skyleite/Kart-Public-WASM/) - ported by [skyleite](https://github.com/skyleite)
 - [Suicide Guy Deluxe](https://github.com/Reeyuki/SuicideGuyDeluxe) - port by [reeyuki](https://reeyuki.nekoweb.org/)
+- [Super Mario Bros. Remastered](https://github.com/bubbls/ports/blob/main/smb-remastered) - port by [bubbls](https://github.com/bubbls)
 - [Super Mario 64 FPS](https://github.com/gays-studio/sm64fps-port) - ported by [aj](https://github.com/ajtabjs)
 - [Sunky's Schoolhouse](https://github.com/gays-studio/sunkys-schoolhouse-webport) - ported by [aj](https://github.com/ajtabjs)
 - [Super Monkey Ball](https://monkeyball-online.pages.dev/) - ported by [Twilight](https://ko-fi.com/twilightpb)
