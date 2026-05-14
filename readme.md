@@ -111,8 +111,9 @@
 - Oneshot (Legacy) - ported by arandomperson
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
-- [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app), updated to latest ver by [bog/aukak](https://github.com/aukak)
+- [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app), updated by [bog/aukak](https://github.com/aukak)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
+- [Plague Inc: Evolved](https://github.com/Reeyuki/PlagueIncEvolved) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Plants vs Zombies: GOTY Edition](https://github.com/wszqkzqk/PvZ-Portable) - ported by [Zhou Qiankang](https://github.com/wszqkzqk)
 - [Plants vs Zombies: Fusion](https://github.com/gays-studio/pvzfusion) - port by [aj](https://github.com/ajtabjs)
 - [Promises to Keep](https://gitea.mcalec.dev/mcalec/ptk) - port by [mcalec](https://mcalec.dev/)
