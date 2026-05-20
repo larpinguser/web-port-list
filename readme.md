@@ -116,7 +116,7 @@
 - [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app), updated by [bog/aukak](https://github.com/aukak)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Plague Inc: Evolved](https://github.com/Reeyuki/PlagueIncEvolved) - port by [reeyuki](https://reeyuki.nekoweb.org/)
-- [Plants vs Zombies: GOTY Edition](https://github.com/wszqkzqk/PvZ-Portable) - ported by [Zhou Qiankang](https://github.com/wszqkzqk)
+- [Plants vs Zombies: GOTY Edition](https://github.com/wszqkzqk/PvZ-Portable), [2](https://github.com/web-ports/pvz), [3](https://github.com/ajtabjs/pvzdeploy) - ported by [Zhou Qiankang](https://github.com/wszqkzqk)
 - [Plants vs Zombies: Fusion](https://github.com/gays-studio/pvzfusion) - port by [aj](https://github.com/ajtabjs)
 - [Promises to Keep](https://gitea.mcalec.dev/mcalec/ptk) - port by [mcalec](https://mcalec.dev/)
 - [Portal](https://github.com/weliveinhell/source-engine) - ported by [weliveinhell](https://github.com/weliveinhell)
