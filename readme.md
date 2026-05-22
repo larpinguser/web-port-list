@@ -72,6 +72,7 @@
 - [Five Nights at Freddy's World: Refreshed](https://github.com/web-ports/fnaf-world-refreshed) - port by [Willowy](https://squall.cc)
 - [Five Night's at Frickbear's 3](https://github.com/Reeyuki/frickbears3port/) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Flying Gorilla](https://github.com/web-ports/flying-gorilla) - port by [98corbins](https://98cornbin.netlify.app/)
+- [Fungiman](https://github.com/GrassPorts/Fungiman) - port by [grass](https://github.com/GrassPorts)
 - [Gabriel's Awesome Schoolhouse](https://github.com/web-ports/gash) - port by [bread](https://github.com/genizy)
 - [Getting Over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/aukak/gorrila-tag) - port by [boolonx dot com](https://boolonx.com/)
