@@ -77,7 +77,7 @@
 - [Getting Over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Genital Jousting](https://github.com/degloved-net/genital-jousting) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/aukak/gorrila-tag) - port by [boolonx dot com](https://boolonx.com/)
-- [Granny](https://github.com/web-ports/granny),[2](https://github.com/aukak/Granny), [3](https://github.com/woahhcrackers/GrannyWeb) - ports by [bread](https://github.com/genizy), [bog/aukak](https://github.com/aukak), crackers
+- [Granny](https://github.com/web-ports/granny), [2](https://github.com/aukak/Granny), [3](https://github.com/woahhcrackers/GrannyWeb) - ports by [bread](https://github.com/genizy), [bog/aukak](https://github.com/aukak), crackers
 - [GTA Vice City](https://github.com/Lolendor/reVCDOS) - port by the [DOS.Zone team](dos.zone/reVCDOS)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [HAYAI](https://github.com/degloved-net/HAYAI) - port by [cirsius](https://github.com/cirsius)
