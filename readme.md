@@ -27,6 +27,7 @@
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
 - [Brotato](https://github.com/BlueGameMC/BrotatoWeb), [2](https://github.com/gays-studio/brotato-webport/), [3](https://github.com/wowdabug/s1/tree/main/brotato) - ported by [BlueGameMC](https://github.com/BlueGameMC)
 - [Capuchin](https://github.com/aukak/Capuchin) - port by [bog/aukak](https://github.com/aukak)
+- [Cat Goes Fishing](https://github.com/Reeyuki/CatFish) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Chasing Tails ~A Promise in the Snow~ ](https://github.com/gays-studio/chasingtails) - port by [aj](https://github.com/ajtabjs)
 - [Cheese Rollers](https://github.com/SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Christmas Massacre](https://github.com/web-ports/christmas-massacre) - port by [98corbins](https://98cornbin.netlify.app)
@@ -135,8 +136,9 @@
 - [Saihate Station](https://github.com/web-ports/saihate-station)
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Sex with Hitler](https://github.com/ajtabjs/swhport) - port by [aj](https://github.com/ajtabjs)
-- [Shift at Midnight](https://github.com/webporting/Shift-At-Midnight) - ported by the [slqnt](https://github.com/slqntdevss)
+- [Shift at Midnight](https://github.com/webporting/Shift-At-Midnight) - ported by [slqnt](https://github.com/slqntdevss)
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
+- [Slenderina The Cellar](https://github.com/Reeyuki/slenderina) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Slendytubbies](https://github.com/web-ports/slendytubbies) - 0 by [bread](https://github.com/genizy) 1-3 by corbin
 - [Slime Ranchers](https://github.com/web-ports/slime-ranchers), [2](https://github.com/Reeyuki/SlimeRanch) - port by [snubby](https://snubby.top)
 - [Something](https://github.com/gays-studio/something-web), [2](https://github.com/googoogoob/SomethingWebPort) - ported by [aj](https://github.com/ajtabjs)
