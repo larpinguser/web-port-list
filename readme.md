@@ -169,6 +169,7 @@
 - [Touhou Mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) - Ported by [bog/aukak](https://github.com/aukak)
 - [Traffic Racer](https://github.com/genizy/traffic-racer) - port by [bread](https://github.com/genizy)
 - [TriZon](https://github.com/degloved-net/trizon) - port by [cirsius](https://github.com/cirsius)
+- [Trombone Champ](https://github.com/degloved-net/trombone-champ) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Ultrakill Prelude](https://github.com/genizy/web-port/tree/main/ultrakill) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Ultrapool](https://github.com/ParrrotVR/ultrapoolwebport), [bread fork](https://github.com/genizy/ultrapoolwebport-nothreads) - port by [ParrrotVR](https://github.com/ParrrotVR), fixed by [bread](https://github.com/genizy)
 - [Undertale](https://github.com/genizy/web-port/tree/main/undertale) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
