@@ -117,7 +117,7 @@
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web), [2](https://github.com/googoogoob/NothingWebPort) - ported by [aj](https://github.com/ajtabjs)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-fixed) - Ported by [bread](https://github.com/genizy)
 - Oneshot (Legacy) - ported by arandomperson
-- [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
+- [Oneshot: World Machine Edition](https://github.com/larpinguser/fa72c1decf204689a638fe1ed96acaed) - ported by [shayder](https://github.com/larpinguser)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
 - [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app), updated by [bog/aukak](https://github.com/aukak)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
