@@ -118,6 +118,7 @@
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-fixed) - Ported by [bread](https://github.com/genizy)
 - Oneshot (Legacy) - ported by arandomperson
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
+- [PEAK](https://github.com/wasmdotrip/Peak-Port) - port by [dasher](https://github.com/dashiellbenton)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
 - [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app), updated by [bog/aukak](https://github.com/aukak)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
@@ -164,6 +165,7 @@
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
+- [There's a Butcher Around](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) - port by [usheje883-maker](https://github.com/usheje883-maker)
 - [Totally Accurate Battle Simulator](https://github.com/web-ports/tabs), [2](https://github.com/Reeyuki/Tabs) - port by bread
 - [Touhou Mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) - Ported by [bog/aukak](https://github.com/aukak)
 - [Traffic Racer](https://github.com/genizy/traffic-racer) - port by [bread](https://github.com/genizy)
