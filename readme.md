@@ -249,3 +249,4 @@ all by slqnt
 - [TWS2401](https://github.com/TWS2401)
 - [q8j](https://github.com/q8j-dev)
 - [wasm.rip](https://wasm.rip)
+- [syntaxical](https://github.com/xxpwnxxx420lord)
