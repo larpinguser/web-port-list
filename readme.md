@@ -90,6 +90,7 @@
 - [Inscryption](https://github.com/Reeyuki/InscryptionWebport) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [In Stars and Time](https://github.com/Reeyuki/InStarsAndTime) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Iron Lung](https://github.com/web-ports/iron-lung) - port by [98Corbins](https://98cornbin.netlify.app)
+- [IS THAT A GUBBY?](https://github.com/xxskidxx69420-ai/isthatagubbywebportheh) - port by [carter](https://github.com/xxskidxx69420-ai)
 - [I Spoke to God](https://github.com/degloved-net/i-spoke-to-god) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Jelly Drift](https://github.com/genizy/web-port/tree/main/jelly-drift) - port by [bread](https://github.com/genizy)
 - [JENNY](https://github.com/MRVAPORWAVE25/JennyGameFiles) - ported by [NotDaniel](https://github.com/MRVAPORWAVE25)
