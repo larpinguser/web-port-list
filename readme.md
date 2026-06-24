@@ -26,6 +26,7 @@
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
 - [Brotato](https://github.com/BlueGameMC/BrotatoWeb), [2](https://github.com/gays-studio/brotato-webport/), [3](https://github.com/wowdabug/s1/tree/main/brotato) - ported by [BlueGameMC](https://github.com/BlueGameMC)
 - [Capuchin](https://github.com/aukak/Capuchin) - port by [bog/aukak](https://github.com/aukak)
+- [Catchaware](https://github.com/barnicalstuff/captchaware) - ported by [syntaxical](https://github.com/xxpwnxxx420lord)
 - [Cat Goes Fishing](https://github.com/Reeyuki/CatFish) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Chasing Tails ~A Promise in the Snow~ ](https://github.com/gays-studio/chasingtails) - port by [aj](https://github.com/ajtabjs)
 - [Cheese Rollers](https://github.com/SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
@@ -153,6 +154,7 @@
 - [Sonic the Hedgehog 2](https://github.com/VinMannie/Sonic-2-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
 - [Sonic Mania](https://github.com/VinMannie/SonicManiaWeb) - ported by [VinMannie](https://github.com/VinMannie)
 - [Sonic Robo Blast 2](https://github.com/chromaticpipe/SRB2-WASM), [2](https://github.com/web-ports/srb2) - ported by [chromaticpipe](https://github.com/chromaticpipe)
+- [SoccerBros](https://github.com/barnicalstuff/SOCCERBROS) - Ported by [syntaxical](https://github.com/xxpwnxxx420lord)
 - [Spaceflight Simulator](https://github.com/web-ports/spaceflight-simulator)
 - [Speed Stars](https://github.com/genizy/web-port/tree/main/speed-stars) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [S.P.L.I.T](https://github.com/degloved-net/s.p.l.i.t) - port by [gurtmuncher](https://github.com/gurtmuncher)
@@ -223,7 +225,6 @@ all by slqnt
 - Pretend it's not there
 - Stick With It
 -->
-
 ## Credits:
 - [breadbb/genizy](https://github.com/genizy)
 - [98Corbins](https://98cornbin.netlify.app)
@@ -249,3 +250,4 @@ all by slqnt
 - [TWS2401](https://github.com/TWS2401)
 - [q8j](https://github.com/q8j-dev)
 - [wasm.rip](https://wasm.rip)
+- [syntaxical](https://github.com/xxpwnxxx420lord)
